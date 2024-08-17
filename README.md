@@ -6,9 +6,17 @@ Collect any pixel art tutorials
 
 # 2024
 
+## 八月
+
+- 第300期：[资产](doc/issue-300.md)
+- 第299期：[旅行](doc/issue-299.md)
+- 第298期：[尊重利益](doc/issue-298.md)
 
 ## 七月
 
+- 第297期：[复杂](doc/issue-297.md)
+- 第296期：[凡事有交代](doc/issue-296.md)
+- 第295期：[最大杠杆](doc/issue-295.md)
 - 第294期：[教育公平](doc/issue-294.md)
 
 ## 六月
