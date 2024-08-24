@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 八月
 
+- 第301期：[好产品好服务](doc/issue-301.md)
 - 第300期：[资产](doc/issue-300.md)
 - 第299期：[旅行](doc/issue-299.md)
 - 第298期：[尊重利益](doc/issue-298.md)
