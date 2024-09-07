@@ -6,8 +6,14 @@ Collect any pixel art tutorials
 
 # 2024
 
+
+## 九月
+
+- 第303期：[感觉不好](doc/issue-303.md)
+
 ## 八月
 
+- 第302期：[量化宽松](doc/issue-302.md)
 - 第301期：[好产品好服务](doc/issue-301.md)
 - 第300期：[资产](doc/issue-300.md)
 - 第299期：[旅行](doc/issue-299.md)
