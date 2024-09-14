@@ -9,6 +9,8 @@ Collect any pixel art tutorials
 
 ## 九月
 
+
+- 第304期：[拥有选择权](doc/issue-304.md)
 - 第303期：[感觉不好](doc/issue-303.md)
 
 ## 八月
