@@ -7,8 +7,12 @@ Collect any pixel art tutorials
 # 2024
 
 
+
+
+
 ## 九月
 
+- 第306期：[人生苦役](doc/issue-306.md)
 - 第305期：[替代品](doc/issue-305.md)
 - 第304期：[拥有选择权](doc/issue-304.md)
 - 第303期：[感觉不好](doc/issue-303.md)
