@@ -10,6 +10,7 @@ Collect any pixel art tutorials
 
 ## 十月
 
+- 第310期：[优化业务](doc/issue-310.md)
 - 第309期：[一切的关键](doc/issue-309.md)
 - 第308期：[年老的时候](doc/issue-308.md)
 
