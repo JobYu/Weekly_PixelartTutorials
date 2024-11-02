@@ -6,6 +6,9 @@ Collect any pixel art tutorials
 
 # 2024
 
+## 十一月
+
+- 第311期：[生存策略](doc/issue-311.md)
 
 
 ## 十月
@@ -13,10 +16,11 @@ Collect any pixel art tutorials
 - 第310期：[优化业务](doc/issue-310.md)
 - 第309期：[一切的关键](doc/issue-309.md)
 - 第308期：[年老的时候](doc/issue-308.md)
+- 第307期：[交换价值](doc/issue-307.md)
 
 ## 九月
 
-- 第307期：[交换价值](doc/issue-307.md)
+
 - 第306期：[人生苦役](doc/issue-306.md)
 - 第305期：[替代品](doc/issue-305.md)
 - 第304期：[拥有选择权](doc/issue-304.md)
