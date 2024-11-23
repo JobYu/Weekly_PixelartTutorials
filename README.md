@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 十一月
 
+- 第314期：[有人陪伴](doc/issue-314.md)
 - 第313期：[一个错误](doc/issue-313.md)
 - 第312期：[问题的一部分](doc/issue-312.md)
 - 第311期：[生存策略](doc/issue-311.md)
