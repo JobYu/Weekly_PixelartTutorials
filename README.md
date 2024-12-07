@@ -6,8 +6,15 @@ Collect any pixel art tutorials
 
 # 2024
 
+
+## 十二月
+
+- 第316期：[超级码农](doc/issue-316.md)
+
+
 ## 十一月
 
+- 第315期：[贫富差距](doc/issue-315.md)
 - 第314期：[有人陪伴](doc/issue-314.md)
 - 第313期：[一个错误](doc/issue-313.md)
 - 第312期：[问题的一部分](doc/issue-312.md)
