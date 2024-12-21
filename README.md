@@ -9,6 +9,8 @@ Collect any pixel art tutorials
 
 ## 十二月
 
+- 第318期：[真正的爱好](doc/issue-318.md)
+- 第317期：[长寿](doc/issue-317.md)
 - 第316期：[超级码农](doc/issue-316.md)
 
 
