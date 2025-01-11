@@ -7,6 +7,7 @@ Collect any pixel art tutorials
 
 ## 一月
 
+- 第321期：[虚荣指标](doc/issue-321.md)
 - 第320期：[虚荣指标](doc/issue-320.md)
 
 # 2024
