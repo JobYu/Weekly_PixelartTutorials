@@ -7,7 +7,8 @@ Collect any pixel art tutorials
 
 ## 一月
 
-- 第321期：[虚荣指标](doc/issue-321.md)
+- 第322期：[野性问题](doc/issue-322.md)
+- 第321期：[吃不完的苦](doc/issue-321.md)
 - 第320期：[虚荣指标](doc/issue-320.md)
 
 # 2024
