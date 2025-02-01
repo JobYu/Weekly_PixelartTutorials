@@ -5,6 +5,10 @@ Collect any pixel art tutorials
 
 # 2025
 
+## 二月
+
+- 第324期：[中年人的长处](doc/issue-324.md)
+
 ## 一月
 
 - 第323期：[专业性](doc/issue-323.md)
