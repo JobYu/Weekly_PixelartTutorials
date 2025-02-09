@@ -7,6 +7,7 @@ Collect any pixel art tutorials
 
 ## 二月
 
+- 第325期：[裁员](doc/issue-325.md)
 - 第324期：[中年人的长处](doc/issue-324.md)
 
 ## 一月
