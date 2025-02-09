@@ -26,7 +26,7 @@
 ![[すらいむ。](https://bsky.app/profile/sraim.bsky.social "すらいむ。")](https://pbs.twimg.com/media/GjMn9h0bgAAaF0B?format=png&name=medium)
 
 
-![[ドトンちゃん](https://x.com/dotonchan "ドトンちゃん")](https://pbs.twimg.com/media/GjOAI4EaEAAJsw8?format=jpg&name=medium
+![[ドトンちゃん](https://x.com/dotonchan "ドトンちゃん")](https://pbs.twimg.com/media/GjOAI4EaEAAJsw8?format=jpg&name=medium)
 
 
 # 鸡汤摘录
