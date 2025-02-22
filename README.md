@@ -7,6 +7,8 @@ Collect any pixel art tutorials
 
 ## 二月
 
+- 第327期：[更多的机会](doc/issue-327.md)
+- 第326期：[最美好的事物](doc/issue-326.md)
 - 第325期：[裁员](doc/issue-325.md)
 - 第324期：[中年人的长处](doc/issue-324.md)
 
