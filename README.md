@@ -4,6 +4,9 @@ Collect any pixel art tutorials
 像素画每周精选10张，像素画教程，个人摘录鸡汤分享周刊，每周六发布。
 
 # 2025
+## 三月
+
+- 第328期：[自律](doc/issue-328.md)
 
 ## 二月
 
