@@ -4,6 +4,12 @@ Collect any pixel art tutorials
 像素画每周精选10张，像素画教程，个人摘录鸡汤分享周刊，每周六发布。
 
 # 2025
+
+## 四月
+
+- 第334期：[选择](doc/issue-334.md)
+- 第333期：[关系的紧张](doc/issue-333.md)
+
 ## 三月
 
 - 第332期：[学到东西](doc/issue-332.md)
