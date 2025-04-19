@@ -7,6 +7,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第335期：[公平交易](doc/issue-335.md)
 - 第334期：[选择](doc/issue-334.md)
 - 第333期：[关系的紧张](doc/issue-333.md)
 
