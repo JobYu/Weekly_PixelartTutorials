@@ -22,7 +22,7 @@
 6. ![作品6](https://pbs.twimg.com/media/Go09wY0XIAAvx5R?format=jpg&name=900x900)
    [godlikepx](https://x.com/godlikepx "godlikepx")
 
-7. ![作品7](https://pbs.twimg.com/media/Go09wY0XIAAvx5R?format=jpg&name=900x900)
+7. ![作品7](https://pbs.twimg.com/media/Go0GNWgWQAAMpfY?format=png&name=medium)
    [PixelSerial](https://x.com/PixelSerial "PixelSerial")
 
 8. ![作品8](https://pbs.twimg.com/media/Got4ruiacAM6eW5?format=png&name=900x900)
