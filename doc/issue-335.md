@@ -4,7 +4,7 @@
 
 ## 精选作品展示
 
-1. ![作品1](https://x.com/pixelartds/status/1913108844160385505/photo/1)
+1. ![作品1](https://pbs.twimg.com/media/Goy6Wt4W8AAUW61?format=png&name=900x900)
    [pixelartds](https://x.com/pixelartds "pixelartds")
 
 2. ![作品2](https://pbs.twimg.com/media/Goyby99WQAAaF6g?format=jpg&name=medium)
