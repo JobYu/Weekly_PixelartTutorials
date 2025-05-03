@@ -5,6 +5,10 @@ Collect any pixel art tutorials
 
 # 2025
 
+## 五月
+
+- 第337期：[写作](doc/issue-337.md)
+
 ## 四月
 
 - 第336期：[最终目的](doc/issue-336.md)
