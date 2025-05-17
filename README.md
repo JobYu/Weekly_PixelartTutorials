@@ -7,6 +7,8 @@ Collect any pixel art tutorials
 
 ## 五月
 
+- 第339期：[靠脑力](doc/issue-339.md)
+- 第338期：[中年人](doc/issue-338.md)
 - 第337期：[写作](doc/issue-337.md)
 
 ## 四月
