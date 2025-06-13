@@ -5,6 +5,12 @@ Collect any pixel art tutorials
 
 # 2025
 
+
+## 六月
+
+- 第343期：[必须相信自己](doc/issue-343.md)
+- 第342期：[人生大事](doc/issue-342.md)
+
 ## 五月
 
 - 第341期：[热爱](doc/issue-341.md)
