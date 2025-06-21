@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 六月
 
+- 第344期：[专家](doc/issue-344.md)
 - 第343期：[必须相信自己](doc/issue-343.md)
 - 第342期：[人生大事](doc/issue-342.md)
 
