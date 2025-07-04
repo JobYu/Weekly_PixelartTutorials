@@ -5,9 +5,13 @@ Collect any pixel art tutorials
 
 # 2025
 
+## 七月
+
+- 第346期：[介意别人](doc/issue-346.md)
 
 ## 六月
 
+- 第345期：[我是谁](doc/issue-345.md)
 - 第344期：[专家](doc/issue-344.md)
 - 第343期：[必须相信自己](doc/issue-343.md)
 - 第342期：[人生大事](doc/issue-342.md)
