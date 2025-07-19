@@ -7,6 +7,8 @@ Collect any pixel art tutorials
 
 ## 七月
 
+- 第348期：[成功率](doc/issue-348.md)
+- 第347期：[想到即做](doc/issue-347.md)
 - 第346期：[介意别人](doc/issue-346.md)
 
 ## 六月
