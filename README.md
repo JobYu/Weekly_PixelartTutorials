@@ -6,7 +6,7 @@ Collect any pixel art tutorials
 # 2025
 
 ## 八月
-
+- 第353期：[忘记](doc/issue-353.md)
 - 第352期：[疗伤](doc/issue-352.md)
 - 第351期：[税](doc/issue-351.md)
 - 第350期：[真正想学](doc/issue-350.md)
