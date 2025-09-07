@@ -5,6 +5,9 @@ Collect any pixel art tutorials
 
 # 2025
 
+## 九月
+- 第354期：[一事无成](doc/issue-354.md)
+
 ## 八月
 - 第353期：[忘记](doc/issue-353.md)
 - 第352期：[疗伤](doc/issue-352.md)
