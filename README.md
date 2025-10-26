@@ -5,6 +5,11 @@ Collect any pixel art tutorials
 
 # 2025
 
+## 十月
+- 第359期：[无](doc/issue-359.md)
+- 第358期：[热爱的事情](doc/issue-358.md)
+- 第357期：[一切都会结束](doc/issue-357.md)
+
 ## 九月
 - 第356期：[想的开](doc/issue-356.md)
 - 第355期：[真正的开端](doc/issue-355.md)
