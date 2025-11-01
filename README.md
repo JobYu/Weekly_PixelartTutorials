@@ -6,6 +6,7 @@ Collect any pixel art tutorials
 # 2025
 
 ## 十月
+- 第360期：[What与How](doc/issue-360.md)
 - 第359期：[无](doc/issue-359.md)
 - 第358期：[热爱的事情](doc/issue-358.md)
 - 第357期：[一切都会结束](doc/issue-357.md)
