@@ -1,7 +1,7 @@
 # Weekly_PixelartTutorials
 Collect any pixel art tutorials
 
-像素画每周精选10张，像素画教程，个人摘录鸡汤分享周刊，每周六发布。
+像素画每周精选无限期停止更新。如需查看更多优秀像素画，请访问“教你画像素画”公众号或 https://www.pixelartist.org/
 
 # 2025
 
