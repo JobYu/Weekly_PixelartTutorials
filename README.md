@@ -1,29 +1,39 @@
 # Weekly_PixelartTutorials
+
 Collect any pixel art tutorials
 
-像素画每周精选无限期停止更新。如需查看更多优秀像素画，请访问“教你画像素画”公众号或 https://www.pixelartist.org/
+像素画每周精选已恢复更新。如需查看更多优秀像素画，请关注「教你画像素画」公众号或访问 [https://www.pixelartist.org/](https://www.pixelartist.org/)
+
+# 2026
+
+## 四月
+
+- 第361期：[5步成交法](doc/issue-361.md)
 
 # 2025
 
 ## 十月
+
 - 第360期：[What与How](doc/issue-360.md)
 - 第359期：[无](doc/issue-359.md)
 - 第358期：[热爱的事情](doc/issue-358.md)
 - 第357期：[一切都会结束](doc/issue-357.md)
 
 ## 九月
+
 - 第356期：[想的开](doc/issue-356.md)
 - 第355期：[真正的开端](doc/issue-355.md)
 - 第354期：[一事无成](doc/issue-354.md)
 
-
 ## 八月
+
 - 第353期：[忘记](doc/issue-353.md)
 - 第352期：[疗伤](doc/issue-352.md)
 - 第351期：[税](doc/issue-351.md)
 - 第350期：[真正想学](doc/issue-350.md)
 
 ## 七月
+
 - 第349期：[假象](doc/issue-349.md)
 - 第348期：[成功率](doc/issue-348.md)
 - 第347期：[想到即做](doc/issue-347.md)
@@ -75,14 +85,12 @@ Collect any pixel art tutorials
 
 # 2024
 
-
 ## 十二月
 
 - 第319期：[真正的成功](doc/issue-319.md)
 - 第318期：[真正的爱好](doc/issue-318.md)
 - 第317期：[长寿](doc/issue-317.md)
 - 第316期：[超级码农](doc/issue-316.md)
-
 
 ## 十一月
 
@@ -92,7 +100,6 @@ Collect any pixel art tutorials
 - 第312期：[问题的一部分](doc/issue-312.md)
 - 第311期：[生存策略](doc/issue-311.md)
 
-
 ## 十月
 
 - 第310期：[优化业务](doc/issue-310.md)
@@ -101,7 +108,6 @@ Collect any pixel art tutorials
 - 第307期：[交换价值](doc/issue-307.md)
 
 ## 九月
-
 
 - 第306期：[人生苦役](doc/issue-306.md)
 - 第305期：[替代品](doc/issue-305.md)
@@ -137,7 +143,6 @@ Collect any pixel art tutorials
 - 第287期：[学习的本质](doc/issue-287.md)
 - 第286期：[交易的3个层次](doc/issue-286.md)
 - 第285期：[做事](doc/issue-285.md)
-
 
 ## 四月
 
@@ -214,8 +219,6 @@ Collect any pixel art tutorials
 - 第243期：[出人意料的答案](doc/issue-243.md)
 - 第242期：[角色扮演游戏](doc/issue-242.md)
 
-
-
 ## 六月
 
 - 第241期：[对自己负责任](doc/issue-241.md)
@@ -239,14 +242,12 @@ Collect any pixel art tutorials
 
 ## 三月
 
-
 - 第229期：[30岁有30岁的艰辛](doc/issue-229.md)
 - 第228期：[讲话不容易](doc/issue-228.md)
 - 第227期：[说走就走](doc/issue-227.md)
 - 第226期：[没人听你说话](doc/issue-226.md)
 
 ## 二月
-
 
 - 第225期：[正确区分朋友](doc/issue-225.md)
 - 第224期：[保持不同的自由](doc/issue-224.md)
@@ -264,7 +265,6 @@ Collect any pixel art tutorials
 # 2022
 
 ## 十二月
-
 
 - 第216期：[最聪明的年轻人](doc/issue-216.md)
 - 第215期：[学习的唯一方法](doc/issue-215.md)
@@ -362,7 +362,6 @@ Collect any pixel art tutorials
 - 第161期：[首先要学会放弃](doc/issue-161.md)
 - 第160期：[总有这么一个瞬间](doc/issue-160.md)
 
-
 ## 十一月
 
 - 第159期：[人只有三件事可做](doc/issue-159.md)
@@ -376,7 +375,6 @@ Collect any pixel art tutorials
 - 第154期：[“最好”是“好”的敌人](doc/issue-154.md)
 - 第153期：[爱的三要素：触摸，陪伴，玩耍](doc/issue-153.md)
 - 第152期：[面向未来，你无法将所有节点串联在一起](doc/issue-152.md)
-
 
 ## 九月
 
@@ -406,14 +404,13 @@ Collect any pixel art tutorials
 - 第137期：[习惯是不断重复的行为](doc/issue-137.md)
 - 第136期：[找到你喜爱的工作](doc/issue-136.md)
 
-
 ## 五月
 
 - 第135期：[新观点可抵80分的智商](doc/issue-135.md)
 - 第134期：[我们必须弄清楚自己是谁](doc/issue-134.md)
 - 第133期：[如何产生杠杆来帮助自己](doc/issue-133.md)
 - 第132期: [热爱的工作](doc/issue-132.md) 
-- 第131期：[曾经飞过的鸟](doc/issue-131.md) 
+- 第131期：[曾经飞过的鸟](doc/issue-131.md)
 
 ## 四月
 
@@ -426,7 +423,7 @@ Collect any pixel art tutorials
 
 - 第126期：[选择其实就那么一个](doc/issue-126.md) 
 - 第125期：[指手画脚的人](doc/issue-125.md) 
-- 第124期：[世界82%的人口生活在平均收入低于每天20美元](doc/issue-124.md) 
+- 第124期：[世界82%的人口生活在平均收入低于每天20美元](doc/issue-124.md)
 
 ## 二月
 
@@ -434,47 +431,46 @@ Collect any pixel art tutorials
 - 第122期：[我对超低分辨率像素画的看法](doc/issue-122.md)
 - 第121期：[做自己热爱的事情才会坚持](doc/issue-121.md) 
 - 第120期：[我离职后，整整有一年，一毛钱的收入都没有。那又怎么样？](doc/issue-120.md) 
-- 第119期：[美则因年龄而异](doc/issue-119.md) 
-
+- 第119期：[美则因年龄而异](doc/issue-119.md)
 
 ## 一月
+
 - 第118期：[最难的是自我约束](doc/issue-118.md) 
 - 第117期：[房产投资，买的不是砖瓦水泥，是未来这个地方的经济增长](doc/issue-117.md) 
 - 第116期：[人生的幸福在哪里？](doc/issue-116.md) 
 - 第115期：[可变比率加固可以使用户上瘾](doc/issue-115.md) 
-- 第114期：[高等教育文凭不再是通向“梦想生活”的护照了](doc/issue-114.md)  
+- 第114期：[高等教育文凭不再是通向“梦想生活”的护照了](doc/issue-114.md)
 
 # 2020
 
-## 十二月 
+## 十二月
 
 - 第 113 期：[要让一个人因为爱上你而变得更好](doc/issue-113.md) 
 - 第 112 期：[大部分钱都是信用](doc/issue-112.md)  
 - 第 111 期：[如何达到人格独立](doc/issue-111.md) 
-- 第 110 期：[时间是你的人生货币](doc/issue-110.md) 
+- 第 110 期：[时间是你的人生货币](doc/issue-110.md)
 
-## 十一月 
+## 十一月
 
 - 第 109 期：[每个人的价值排序不同](doc/issue-109.md) 
 - 第 108 期：[你所做的事情，要努力做到世界最好](doc/issue-108.md) 
 - 第 107 期：[每一个决策都需要经济成本](doc/issue-107.md)  
-- 第 106 期：[4个新兴产业](doc/issue-106.md)  
+- 第 106 期：[4个新兴产业](doc/issue-106.md)
 
-## 十月 
+## 十月
 
 - 第 105 期：[在与别人第一次见面的时候](doc/issue-105.md)
 - 第 104 期：[所有人都陷入一个巨大装置](doc/issue-104.md)  
 - 第 103 期：[不管全世界所有人怎么说](doc/issue-103.md)  
 - 第 102 期：[为了不被取代，你一定要与众不同](doc/issue-102.md) 
-- 第 101 期：[人有三件事不能等](doc/issue-101.md)  
+- 第 101 期：[人有三件事不能等](doc/issue-101.md)
 
-## 九月 
+## 九月
 
 - 第 100 期：[生命是向死亡讨来的借贷](doc/issue-100.md) 
 - 第 99 期：[时间被视为稀缺资源](doc/issue-99.md)  
 - 第 98 期：[如果你失败了](doc/issue-98.md)  
-- 第 97 期：[精简的本体论原则](doc/issue-97.md) 
-
+- 第 97 期：[精简的本体论原则](doc/issue-97.md)
 
 ## 八月
 
@@ -482,43 +478,43 @@ Collect any pixel art tutorials
 - 第 95 期：[我也喜欢那些曾经历过失败的人](doc/issue-95.md) 
 - 第 94 期：[大脑最重要的功能](doc/issue-94.md) 
 - 第 93 期：[只有你周围的事物才能和你有因果联系](doc/issue-93.md)  
-- 第 92 期：[我有一个永恒的秘诀](doc/issue-92.md)  
+- 第 92 期：[我有一个永恒的秘诀](doc/issue-92.md)
 
-## 七月 
+## 七月
 
 - 第 91 期：[为精神财富工作](doc/issue-91.md)
 - 第 90 期：[当一个人懂得如何自我实现](doc/issue-90.md) 
 - 第 89 期：[成功不在于你有多聪明](doc/issue-89.md) 
-- 第 88 期：[在出租时间的模式下](doc/issue-88.md) 
+- 第 88 期：[在出租时间的模式下](doc/issue-88.md)
 
-## 六月 
+## 六月
 
 - 第 87 期：[判断当前阶段的最好方法](doc/issue-87.md) 
 - 第 86 期：[假如你清楚一个人需求什么](doc/issue-86.md) 
 - 第 85 期：[人生意义的五大价值](doc/issue-85.md) 
-- 第 84 期：[青春是一根烟](doc/issue-84.md) 
+- 第 84 期：[青春是一根烟](doc/issue-84.md)
 
-## 五月 
+## 五月
 
 - 第 83 期：[本期无鸡汤](doc/issue-83.md) 
 - 第 82 期：[“尝试”纯粹是一种借口](doc/issue-82.md)  
 - 第 81 期：[很多人都过不了50岁大关](doc/issue-81.md)  
 - 第 80 期：[寻找生命的意义](doc/issue-80.md) 
-- 第 79 期：[人们永远都在寻求新的朋友](doc/issue-79.md)  
+- 第 79 期：[人们永远都在寻求新的朋友](doc/issue-79.md)
 
-## 四月 
+## 四月
 
 - 第 78 期：[我才60岁，人生才刚刚开始](doc/issue-78.md)
 - 第 77 期：[每个人都是一个投资者](doc/issue-77.md) 
 - 第 76 期：[人口的红利决定了所有的红利](doc/issue-76.md) 
-- 第 75 期：[做生意比搬砖赚钱快100倍](doc/issue-75.md) 
+- 第 75 期：[做生意比搬砖赚钱快100倍](doc/issue-75.md)
 
-## 三月 
+## 三月
 
 - 第 74 期：[银行很难将负利率传递给零售客户](doc/issue-74.md) 
 - 第 73 期：[如果你不能管理它，就不能改善它](doc/issue-73.md) 
 - 第 72 期：[创业守则第一条](doc/issue-72.md)  
-- 第 71 期：[有利润就有人加入](doc/issue-71.md) 
+- 第 71 期：[有利润就有人加入](doc/issue-71.md)
 
 ## 二月
 
@@ -528,23 +524,21 @@ Collect any pixel art tutorials
 - 第 69 期：[没有哪件事情是水到渠成的](doc/issue-69.md) 
 - 第 70 期：[一份无关紧要的工作是一个危险的陷阱](doc/issue-70.md)
 
-## 一月 
+## 一月
 
 - 第 65 期：[没有设定人生目标](doc/issue-65.md)
 - 第 64 期：[解决问题的原则](doc/issue-64.md) 
 - 第 63 期：[本期无鸡汤](doc/issue-63.md)  
-- 第 62 期：[一个没结婚也没孩子的男人](doc/issue-62.md) 
-
+- 第 62 期：[一个没结婚也没孩子的男人](doc/issue-62.md)
 
 # 2019
 
 ## 十二月
 
-
 - 第 61 期：[只有购买必需品才称得上划算](doc/issue-61.md)
 - 第 60 期：[人没有被逼到一定的份上，是不会做出选择的](doc/issue-60.md) 
 - 第 59 期：[先有生存，然后才有真理和科学](doc/issue-59.md)
-- 第 58 期：[你永远无法说服一个人他错了](doc/issue-58.md) 
+- 第 58 期：[你永远无法说服一个人他错了](doc/issue-58.md)
 
 ## 十一月
 
@@ -552,18 +546,14 @@ Collect any pixel art tutorials
 - 第 56 期：[在大的旅游团中人们被当作羊一样赶来赶去](doc/issue-56.md)  
 - 第 55 期：[本期无鸡汤](doc/issue-55.md)  
 - 第 54 期：[要如何区分需要和欲望呢？](doc/issue-54.md) 
-- 第 53 期：[创新的特点是拒绝接受默认选项](doc/issue-53.md) 
-
-
-
-
+- 第 53 期：[创新的特点是拒绝接受默认选项](doc/issue-53.md)
 
 ## 十月
 
 - 第 52 期：[美国人如何花钱？](doc/issue-52.md) 
 - 第 51 期：[损失造成的痛苦大于收益带来的快乐](doc/issue-51.md) 
 - 第 50 期：[不确定为什么要去](doc/issue-50.md)  
-- 第 49 期：[公司解雇你只需要 6 分钟](doc/issue-49.md) 
+- 第 49 期：[公司解雇你只需要 6 分钟](doc/issue-49.md)
 
 ## 九月
 
@@ -572,14 +562,12 @@ Collect any pixel art tutorials
 - 第 46 期：[海洛因和月薪同样危险](doc/issue-46.md) 
 - 第 45 期：[领导者的三种模式](doc/issue-45.md)
 
-
 ## 八月
 
 - 第 44 期：[设计师必须知道产品的目标用户](doc/issue-44.md) 
 - 第 43 期：[飞机托运行李损坏或丢失如何索赔？](doc/issue-43.md)  
 - 第 42 期：[本期无鸡汤](doc/issue-42.md)
-- 第 41 期：[本期无鸡汤](doc/issue-41.md)   
-
+- 第 41 期：[本期无鸡汤](doc/issue-41.md)
 
 ## 七月
 
@@ -587,15 +575,14 @@ Collect any pixel art tutorials
 - 第 39 期：[现代化的进程](doc/issue-39.md)  
 - 第 38 期：[創業的人不一定要聰明](doc/issue-38.md)
 - 第 37 期：[时间决定你会在生命中遇见谁](doc/issue-37.md)   
-- 第 36 期：[所有上班的人都在出卖自己的劳动力](doc/issue-36.md)   
+- 第 36 期：[所有上班的人都在出卖自己的劳动力](doc/issue-36.md)
 
 ## 六月
 
 - 第 35 期：[一个人一旦接触到真相](doc/issue-35.md) 
 - 第 34 期：[卓越的人有一个内在的心理评价机制](doc/issue-34.md)  
 - 第 33 期：[公司採用各種辦法裁減40歲以上的員工](doc/issue-33.md)
-- 第 32 期：[靠子女养老，到底是不是一个可靠的出路？](doc/issue-32.md)     
-
+- 第 32 期：[靠子女养老，到底是不是一个可靠的出路？](doc/issue-32.md)
 
 ## 五月
 
@@ -603,14 +590,14 @@ Collect any pixel art tutorials
 - 第 30 期：[真正的幸福](doc/issue-30.md)  
 - 第 29 期：[日本人口不断萎缩](doc/issue-29.md)
 - 第 28 期：[关于 996 工作制](doc/issue-28.md)    
-- 第 27 期：[本期无鸡汤](doc/issue-27.md)   
+- 第 27 期：[本期无鸡汤](doc/issue-27.md)
 
 ## 四月
 
 - 第 26 期：[软件行业是一个年轻的行业](doc/issue-26.md) 
 - 第 25 期：[本期无鸡汤](doc/issue-25.md)  
 - 第 24 期：[從來沒有人告訴年輕人](doc/issue-24.md)
-- 第 23 期：[本期无鸡汤](doc/issue-23.md)     
+- 第 23 期：[本期无鸡汤](doc/issue-23.md)
 
 ## 三月
 
@@ -618,7 +605,7 @@ Collect any pixel art tutorials
 - 第 21 期：[便利店也是媒体](doc/issue-21.md)  
 - 第 20 期：[本期无鸡汤](doc/issue-20.md)
 - 第 19 期：[花钱你就可以看到很多的赞](doc/issue-19.md)     
-- 第 18 期：[我们的心灵和灵魂渴望获得更大的成就](doc/issue-18.md) 
+- 第 18 期：[我们的心灵和灵魂渴望获得更大的成就](doc/issue-18.md)
 
 ## 二月
 
@@ -632,7 +619,7 @@ Collect any pixel art tutorials
 - 第13期：[像素画动态光照程序实现思路](doc/issue-13.md) 
 - 第12期：[像素画颜色选择](doc/issue-12.md)  
 - 第11期：[游戏开发成本预估](doc/issue-11.md)   
-- 第10期：[政府的养老金注定是不够的](doc/issue-10.md)  
+- 第10期：[政府的养老金注定是不够的](doc/issue-10.md)
 
 # 2018
 
@@ -649,4 +636,5 @@ Collect any pixel art tutorials
 - 第4期：[Micro-mages 40KB游戏开发指南](doc/issue-4.md) 
 - 第3期：[全球最大插画社区](doc/issue-3.md) 
 - 第2期：[怎样开始学习像素画](doc/issue-2.md)
-- 第1期：[做这个周刊的主要原因](doc/issue-1.md)     
+- 第1期：[做这个周刊的主要原因](doc/issue-1.md)
+
