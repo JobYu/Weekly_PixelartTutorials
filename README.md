@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第363期：[坚持热爱的事情时间会…](doc/issue-363.md)
 - 第362期：[心态改变](doc/issue-362.md)
 - 第361期：[5步成交法](doc/issue-361.md)
 
@@ -53,6 +54,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第363期：[坚持热爱的事情时间会…](doc/issue-363.md)
 - 第336期：[最终目的](doc/issue-336.md)
 - 第335期：[公平交易](doc/issue-335.md)
 - 第334期：[选择](doc/issue-334.md)
@@ -143,6 +145,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第363期：[坚持热爱的事情时间会…](doc/issue-363.md)
 - 第284期：[前进的障碍](doc/issue-284.md)
 - 第283期：[生活方式](doc/issue-283.md)
 - 第282期：[降低风险](doc/issue-282.md)
@@ -232,6 +235,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第363期：[坚持热爱的事情时间会…](doc/issue-363.md)
 - 第233期：[不能合作](doc/issue-233.md)
 - 第232期：[当你焦虑时](doc/issue-232.md)
 - 第231期：[看似有潜力的人](doc/issue-231.md)
@@ -322,6 +326,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第363期：[坚持热爱的事情时间会…](doc/issue-363.md)
 - 第181期：[无愧于幸福](doc/issue-181.md)
 - 第180期：[一个人可以对别人撒谎](doc/issue-180.md)
 - 第179期：[焦虑就是恐惧](doc/issue-179.md)
