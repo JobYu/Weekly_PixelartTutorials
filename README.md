@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第362期：[心态改变](doc/issue-362.md)
 - 第361期：[5步成交法](doc/issue-361.md)
 
 # 2025
