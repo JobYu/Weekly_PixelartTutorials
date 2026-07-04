@@ -6,6 +6,10 @@ Collect any pixel art tutorials
 
 # 2026
 
+## 七月
+
+- 第370期：[合格需求的3个必备要素](doc/issue-370.md)
+
 ## 六月
 
 - 第369期：[数据和IP才是护城河](doc/issue-369.md)
